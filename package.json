@@ -1,0 +1,14 @@
+{
+  "name": "stylelint-nth-child",
+  "version": "1.0.0",
+  "dependencies": {
+    "stylelint": "^14.9.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "stylelint index.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
